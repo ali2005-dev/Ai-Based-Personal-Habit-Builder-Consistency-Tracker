@@ -1,3 +1,5 @@
+// Added by main developer for clarity
+
 public class Habit {
     private String name;
     private boolean completed;

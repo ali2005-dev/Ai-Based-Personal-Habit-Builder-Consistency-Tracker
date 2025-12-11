@@ -1,3 +1,5 @@
+// Added by main developer for clarity
+
 import java.util.ArrayList;
 
 public class HabitTracker {
