@@ -5,6 +5,8 @@ import models.Habit;
 public class MainDashboard {
 
     public static void main(String[] args) {
+        System.out.println("This commit is for Asim username display");
+
         System.out.println("Welcome to the Habit Builder App!");
         System.out.println("Every small step counts!");
 
