@@ -5,7 +5,8 @@ import models.Habit;
 public class MainDashboard {
 
     public static void main(String[] args) {
-        System.out.println("This commit is for Asim username display");
+    
+
 
         System.out.println("Welcome to the Habit Builder App!");
         System.out.println("Every small step counts!");
@@ -18,6 +19,10 @@ public class MainDashboard {
         habitService.addHabit("Study 1 Hour");
 
         System.out.println("Your Habits:");
+        System.out.println("This commit is for Asim username display");
+
+        System.out.println("Dashboard ready!");
+
         for (Habit h : habitService.getAllHabits()) {
             System.out.println("- " + h.getName());
         }

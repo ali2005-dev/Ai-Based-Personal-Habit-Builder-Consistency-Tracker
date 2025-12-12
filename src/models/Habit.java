@@ -1,3 +1,5 @@
+// This class handles individual habit data
+
 // Added by main developer for clarity
 
 public class Habit {
